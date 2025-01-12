@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**Ming2Hao/Ming2Hao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Web Developer with a keen interest in Artificial Intelligence. I love building intelligent web applications and exploring the intersection of AI and web technologies.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend Development
+- AI Integration in Web Apps
+- Machine Learning Implementation
+- Responsive Web Design
+- UI/UX Implementation
+- Web Performance Optimization
+
+## 💻 Tech Stack
+
+- **Languages:** JavaScript (ES6+), Python, HTML5, CSS3,
+- **Frontend:** React
+- **AI & ML:** Tensorflow, Cohere
+- **Styling:** Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, Webpack, Jupyter Notebooks
+- **Testing:** Selenium
+
+## 🌱 Currently Learning
+
+- Computer Vision Applications
+- Advanced React Patterns
+- MLOps & AI Deployment
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ming2Hao&show_icons=true&theme=dark)
+
+## 📫 Let's Connect
+
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/ivan-cahyadi/))
+
+---
+⭐️ From [Ming2Hao](https://github.com/Ming2Hao)
