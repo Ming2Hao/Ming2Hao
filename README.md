@@ -34,7 +34,7 @@ I'm a passionate Web Developer with a keen interest in Artificial Intelligence. 
 
 ## 📫 Let's Connect
 
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/ivan-cahyadi/))
+- [LinkedIn]((https://www.linkedin.com/in/ivan-cahyadi/))
 
 ---
 ⭐️ From [Ming2Hao](https://github.com/Ming2Hao)
