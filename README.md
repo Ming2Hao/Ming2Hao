@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Ivan Cahyadi
 
 I'm a passionate Web Developer with a keen interest in Artificial Intelligence. I love building intelligent web applications and exploring the intersection of AI and web technologies.
 
